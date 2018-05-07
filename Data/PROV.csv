@@ -1,0 +1,270 @@
+Course,Number,Prefix,Prof_Name (Assigned Dept-College),Enrolled ,A,B,C,D,F,W,I ,*,P,F
+
+CU,1000,,Whorton Susan S (5126-PROV),5225, 0,0,0,0,0,0.50,0,0,88.61,10.89
+CU,1010,,Babb Bryn Zimmermann (5126-PROV),16, 50.00,25.00,12.50,0,6.25,6.25,0,0,0,0
+CU,1010,,Brooks Cari Allyn (0504-CAAH),14, 42.86,7.14,14.29,7.14,21.43,7.14,0,0,0,0
+CU,1010,,Bufford Sharetta Marquese (0801-CSCI),6, #,#,#,#,#,#,#,#,#,#
+CU,1010,,Dean Kirsten Noelle (3001-LBRY),17, 29.41,23.53,23.53,0,11.76,11.76,0,0,0,0
+CU,1010,,Kirk Matthew James (5016-PRES),8, #,#,#,#,#,#,#,#,#,#
+CU,1010,,Magagnotti Mariah Soibhan (0902-CECAS),41, 34.15,24.39,14.63,12.20,12.20,2.44,0,0,0,0
+CU,1010,,Miller Matthew Kent (0902-CECAS),31, 58.06,32.26,3.23,0,3.23,3.23,0,0,0,0
+CU,1010,,Stephan Elizabeth Anne (0902-CECAS),38, 50.00,36.84,5.26,2.63,5.26,0,0,0,0,0
+CU,1100,,Whisler Laurel Ann Carter (5126-PROV),5, #,#,#,#,#,#,#,#,#,#
+CU,1110,,Crisp Ashley E (5126-PROV),5, #,#,#,#,#,#,#,#,#,#
+CU,1110,,Waugaman Gretchen E (5105-PROV),10, 0,0,0,0,0,0,0,0,100.00,0
+CU,1110,,Whisler Laurel Ann Carter (5126-PROV),73, 0,0,0,0,0,0,0,0,100.00,0
+CU,1970,,Lange Amber J. (5404-PRES),9, #,#,#,#,#,#,#,#,#,#
+CU,1970,,Mulkey Amber Allen (5105-PROV),54, 0,0,0,0,0,0,0,0,100.00,0
+CU,2010,,Goree Jennifer Margaret (4054-STUD),27, 100.00,0,0,0,0,0,0,0,0,0
+""
+HON,1900,H,Schmidt Johannes  (0535-CAAH),18, 88.89,11.11,0,0,0,0,0,0,0,0
+HON,1920,H,Winslow Sarah Evelyn (1356-CBSHS),8, #,#,#,#,#,#,#,#,#,#
+HON,1930,H,Marks Steven G (0527-CAAH),12, 75.00,25.00,0,0,0,0,0,0,0,0
+HON,1930,H,Matic Vladimir  (1354-CBSHS),15, 100.00,0,0,0,0,0,0,0,0,0
+HON,1940,H,Appling Jeffrey R (5105-PROV),14, 78.57,21.43,0,0,0,0,0,0,0,0
+HON,2020,H,Fine Amanda Cooper (1325-CBUS),19, 94.74,5.26,0,0,0,0,0,0,0,0
+HON,2020,H,Lasser William  (5106-PROV),12, 100.00,0,0,0,0,0,0,0,0,0
+HON,2020,H,Pearce Colin  (1310-CBUS),12, 33.33,66.67,0,0,0,0,0,0,0,0
+HON,2030,H,Cohen Peter A (0528-CAAH),18, 100.00,0,0,0,0,0,0,0,0,0
+HON,2050,H,Brown Timothy Burl (0503-CAAH),17, 100.00,0,0,0,0,0,0,0,0,0
+HON,2050,H,Freeman Yuri  (0915-CECAS),16, 93.75,0,0,0,0,6.25,0,0,0,0
+HON,2050,H,Frost Daniel H (1354-CBSHS),9, #,#,#,#,#,#,#,#,#,#
+HON,2050,H,Hannon John Michael (1345-CBUS),26, 100.00,0,0,0,0,0,0,0,0,0
+HON,2060,H,Cox Silas Knight (5106-PROV),19, 100.00,0,0,0,0,0,0,0,0,0
+HON,2060,H,Reba Marilyn  (0975-CSCI),20, 95.00,0,0,0,0,5.00,0,0,0,0
+HON,2090,H,Lasser William  (5106-PROV),1, #,#,#,#,#,#,#,#,#,#
+HON,2090,H,Widgren Kenneth David (0535-CAAH),14, 100.00,0,0,0,0,0,0,0,0,0
+HON,2090,H,Zamora Maureen  (0535-CAAH),15, 100.00,0,0,0,0,0,0,0,0,0
+HON,2200,H,Bein Amit  (0527-CAAH),14, 85.71,14.29,0,0,0,0,0,0,0,0
+HON,2200,H,Che Stacy Megan (0724-CED),15, 93.33,6.67,0,0,0,0,0,0,0,0
+HON,2210,H,LeMahieu Michael L (0523-CAAH),19, 68.42,15.79,10.53,0,0,5.26,0,0,0,0
+HON,2210,H,Naimou Angela M (0523-CAAH),15, 100.00,0,0,0,0,0,0,0,0,0
+HON,2210,H,Pelt April Susanne (5127-PROV),39, 87.18,5.13,2.56,0,0,2.56,2.56,0,0,0
+HON,2220,H,Mero Alison Leigh (0523-CAAH),10, 100.00,0,0,0,0,0,0,0,0,0
+HON,2220,H,Stoicea Gabriela  (0535-CAAH),16, 68.75,31.25,0,0,0,0,0,0,0,0
+HON,4000,H,Abercrombie John G (0314-CSCI),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Anido Raquel  (0535-CAAH),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Beck Katalin  (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Benson Christopher A (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Blob Richard W. (0314-CSCI),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Breazel Ellen Hepfer (0975-CSCI),4, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Britt Thomas W. (1355-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Brooks Richard R (0915-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Burati James L (0911-CECAS),6, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Busby Terry Kaye (0743-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Carraway Elizabeth R. (0919-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Checura Celina Marcela (0311-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Cothran Sara Lane (0316-CAFLS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Cummings John R (0314-CSCI),4, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Dubsky Richard Steven (0975-CSCI),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Dugan Melissa M (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Fine Amanda Cooper (1325-CBUS),3, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Fisk Ashley Cowden (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Fitzmaurice Stephen Benjamin (0535-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Frost Daniel H (1354-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Gale Erin Nicholson (0523-CAAH),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Gao Zhi  (0905-CECAS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Garnar Andrew W (0528-CAAH),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Ghita Lucian  (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Grosby Steven E (0528-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Grubb C Alan (0527-CAAH),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Hawkins Brent L. (0735-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Hefner Traci Ann (0971-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Herzog Alexander Christoph (0974-CECAS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Hunter Walter Edgar (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Jemison Elizabeth L (0528-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Johnson Alan R. (0317-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Kemper Karen A (0745-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,King Bruce Michael (1355-CBSHS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,King Oswald Harris (0535-CAAH),3, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Kisska-Schulze Kathryn  (1303-CBUS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Koc Ali Bulent (0312-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Kolodzey William Thomas (0915-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Lanham Janice Garrison (0743-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Lapin Eric J (0525-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Liddle James W (1305-CBUS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Ligon Walter B (0915-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Linvill Darren L (0533-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Malloy Brian A (0974-CECAS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Matic Vladimir  (1354-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Mayo Rachel M (0745-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,McElveen Carter Willis (1325-CBUS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,McNutt-Scott Tamara L. (0314-CSCI),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Meehan Nancy K (0743-CBSHS),4, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Misener Dunn Kim Marlene (0535-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Moore Robert Truett (0316-CAFLS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Morris Keith L (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Nagatomi Jiro  (0905-CECAS),5, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Ogle Jennifer H (0911-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Olson Laura R (1354-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Pilcher June J. (1355-CBSHS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Pope Amy Liann (0978-CSCI),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Pulley William M (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Randall Philip D (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Ransom Bruce W (1354-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Reid William J (0915-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Rudolph Krista Barrier (0314-CSCI),3, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Sanborn Sarah Mae (1355-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Siemens Jennifer Dianne (1325-CBUS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Simionescu Agneta  (0905-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Smith John Robert (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Spinda John Steven Wasyl (0533-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Stegall David L (0528-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Stephens Crystal Patrica (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Stripling Stephanie Meshell (0523-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Taaffe Kevin M (0920-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Taydas Zeynep  (1354-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Thompson Margaret Louise (0919-CECAS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Tissera Graciela E (0535-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Turner Brandon P (1354-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Vassalos Michael  (0312-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Ward Micky Rogers (0745-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Warner Daniel D (5130-PROV),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Warren Patrick L (1309-CBUS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Webb Charles K (0905-CECAS),2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Weisensee Katherine E (1356-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Welsh Ralph Stewart (0745-CBSHS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Werst Shane Allen (1351-CBUS),1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,Wilmoth Tiffany A (0311-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+HON,4010,H,Anderson Todd Dennis (0509-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4010,H,Dwyer Gerald P (1309-CBUS),1, #,#,#,#,#,#,#,#,#,#
+HON,4990,H,Feeser Andrea V (0509-CAAH),1, #,#,#,#,#,#,#,#,#,#
+HON,4990,H,Jones Jeryl C (0311-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+HON,4990,H,Scott Thomas R (0311-CAFLS),1, #,#,#,#,#,#,#,#,#,#
+""
+HON,2020,,"Wainscott, Stephen H (5106-PROV)",9, #,#,#,#,#,#,#,#,#,#
+HON,2090,,"Burns, James M. (0527-CAAH)",6, #,#,#,#,#,#,#,#,#,#
+HON,2090,,"Fine, Jeffrey Allen (1354-CBSHS)",12, 100.00,0,0,0,0,0,0,0,0,0
+HON,2090,,"Marks, Steven G (0527-CAAH)",20, 100.00,0,0,0,0,0,0,0,0,0
+HON,2090,,"Wainscott, Stephen H (5106-PROV)",9, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Matic, Vladimir (1354-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+""
+CU,1000,,"Whorton, Susan S (5126-PROV)",430, 0,0,0,0,0,2.33,0,0,81.16,16.51
+CU,1010,,"Babb, Bryn Zimmermann (5105-PROV)",19, 52.63,21.05,10.53,5.26,0,10.53,0,0,0,0
+CU,1010,,"Brooks, Cari Allyn (5126-PROV)",18, 38.89,27.78,16.67,16.67,0,0,0,0,0,0
+CU,1010,,"Kirk, Matthew James (5126-PROV)",20, 25.00,25.00,25.00,5.00,5.00,15.00,0,0,0,0
+CU,1010,,"Owens, Jessica Gale (0801-CSCI)",19, 52.63,21.05,5.26,10.53,0,10.53,0,0,0,0
+CU,1010,,"Thames, Joseph Paul (0318-CSCI)",22, 40.91,13.64,4.55,9.09,13.64,18.18,0,0,0,0
+CU,1100,,"Crisp, Ashley E (5126-PROV)",7, #,#,#,#,#,#,#,#,#,#
+CU,1100,,"Reabold, Emma Reynolds (5126-PROV)",7, #,#,#,#,#,#,#,#,#,#
+CU,1110,,"Waugaman, Gretchen E (5105-PROV)",7, #,#,#,#,#,#,#,#,#,#
+CU,1110,,"Whisler, Laurel Ann Carter (5126-PROV)",46, 0,0,0,0,0,2.17,0,0,95.65,2.17
+CU,1970,,"Harper, Erica Elise (0955-CECAS)",11, 0,0,0,0,0,0,0,0,100.00,0
+CU,1970,,"Massey, Robert Austin (0955-CECAS)",10, 0,0,0,0,0,10.00,0,0,90.00,0
+CU,1970,,"Newton, Margaret B (0955-CECAS)",11, 0,0,0,0,0,0,0,0,100.00,0
+CU,1970,,"O'Brien, Stephanie (0955-CECAS)",10, 0,0,0,0,0,10.00,0,0,90.00,0
+CU,1970,,"Thompson, Karen Kaylor (0901-CECAS)",6, #,#,#,#,#,#,#,#,#,#
+CU,2010,,"Goree, Jennifer Margaret (4054-STUD)",29, 89.66,6.90,3.45,0,0,0,0,0,0,0
+""
+HON,2020,,"Khan, Nafees Mohammad (0724-CED)",19, 100.00,0,0,0,0,0,0,0,0,0
+HON,2020,,"Pearce, Colin (1310-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,2020,,"Spearman, Melinda J (0724-CED)",19, 100.00,0,0,0,0,0,0,0,0,0
+HON,2030,,"Cohen, Peter A (0528-CAAH)",19, 100.00,0,0,0,0,0,0,0,0,0
+HON,2050,,"Frost, Daniel H (1354-CBSHS)",14, 92.86,7.14,0,0,0,0,0,0,0,0
+HON,2050,,"Laurence, Peter L (0503-CAAH)",14, 100.00,0,0,0,0,0,0,0,0,0
+HON,2060,,"Kitchens, Christopher L (0909-CECAS)",18, 50.00,44.44,0,0,0,5.56,0,0,0,0
+HON,2060,,"Mefford, Olin T (0971-CECAS)",18, 50.00,44.44,0,0,0,5.56,0,0,0,0
+HON,2060,,"Wueste, Daniel E (0528-CAAH)",8, #,#,#,#,#,#,#,#,#,#
+HON,2070,,"Calkin, Neil J (0975-CSCI)",5, #,#,#,#,#,#,#,#,#,#
+HON,2090,,"Burns, James M. (0527-CAAH)",6, #,#,#,#,#,#,#,#,#,#
+HON,2090,,"Lasser, William (5106-PROV)",5, #,#,#,#,#,#,#,#,#,#
+HON,2090,,"Matic, Vladimir (1354-CBSHS)",14, 100.00,0,0,0,0,0,0,0,0,0
+HON,2090,,"Widgren, Kenneth David (0535-CAAH)",5, #,#,#,#,#,#,#,#,#,#
+HON,2090,,"Zamora, Maureen (0535-CAAH)",6, #,#,#,#,#,#,#,#,#,#
+HON,2100,,"Spede, Mark J (0525-CAAH)",17, 94.12,0,0,0,0,5.88,0,0,0,0
+HON,2200,,"Fine, Jeffrey Allen (1354-CBSHS)",16, 93.75,6.25,0,0,0,0,0,0,0,0
+HON,2200,,"Pearce, Colin (1310-CBUS)",6, #,#,#,#,#,#,#,#,#,#
+HON,2200,,"Silvestri, Michael S (0527-CAAH)",10, 80.00,10.00,0,0,0,10.00,0,0,0,0
+HON,2210,,"Marks, Steven G (0527-CAAH)",19, 78.95,21.05,0,0,0,0,0,0,0,0
+HON,2210,,"Monaghan, Amy N (0523-CAAH)",10, 40.00,60.00,0,0,0,0,0,0,0,0
+HON,2210,,"Schmidt, Johannes (0535-CAAH)",17, 94.12,0,0,5.88,0,0,0,0,0,0
+HON,2220,,"An, Yanming (0535-CAAH)",8, #,#,#,#,#,#,#,#,#,#
+HON,2220,,"King, Joshua Douglas (1310-CBUS)",9, #,#,#,#,#,#,#,#,#,#
+HON,2220,,"Schmidt, Johannes (0535-CAAH)",17, 82.35,17.65,0,0,0,0,0,0,0,0
+HON,2230,,"Matthey, Pauline (0533-CBSHS)",17, 100.00,0,0,0,0,0,0,0,0,0
+HON,4000,H,"Alexis, Frank (0905-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Anderson, Todd Dennis (0509-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Ash, Erin Michelle (0533-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Benson, Christopher A (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Blob, Richard W. (0314-CSCI)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Brame, Scott E (0919-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Brown, Christy Jenkins (0975-CSCI)",3, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Burati, James L (0911-CECAS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Busby, Terry Kaye (0743-CBSHS)",3, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Carraway, Elizabeth R. (0919-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Cawood, Mark E. (0975-CSCI)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Clinkscales, Amelia Beasley (0745-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Cummings, John R (0314-CSCI)",6, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Curtis, Katherine Amber (1354-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Drapcho, Caye Marie (0919-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Dugan, Melissa M (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Dunn, Heather Walker (0311-CAFLS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Eggert, Julia A (0743-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Eksioglu, Sandra Duni (0920-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Fama, Adrienne Elizabeth (0535-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Fine, Amanda Cooper (1325-CBUS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Fisk, Ashley Cowden (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Fitzmaurice, Stephen Benjamin (0535-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Gallicchio, Vincent S (0314-CSCI)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Garnar, Andrew W (0528-CAAH)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Gaubert, James G (1325-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Gillespie, Jackie S (0743-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Griffin, Sarah F (0745-CBSHS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Grimes, Lawrence Wade (0975-CSCI)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Hains, John Jenkins (0314-CSCI)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Hall, Anna Henson (0724-CED)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Hannon, John Michael (1345-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Holland, Martin John (0512-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Johnson, Kendra Lynette (0525-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Johnson, William Holland (1323-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Kowalski, Robin Marie (1355-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Lanham, Janice Garrison (0743-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Liddle, James W (1315-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Lucas, Jason D (0507-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Malloy, Brian A (0974-CECAS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Marks, Steven G (0527-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Martinez, Nicole Elizabeth (0919-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Mathas, Andrew P (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"McDonough, Shannon M (1356-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"McElveen, Carter Willis (1325-CBUS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"McKibben, Eric S (1355-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"McMillan, Kerri D (1323-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"McNutt-Scott, Tamara L. (0314-CSCI)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Meyer, Paul Jeffrey (0921-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Nagatomi, Jiro (0905-CECAS)",6, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Olson, Laura R (1354-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Palacios, George (0535-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Peebles, Kelly Digby (0535-CAAH)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Powers, Matthew Neal (0512-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Quiroga Gomez, Bernardo Francisco (1305-CBUS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Ramler, Mari Elena (0501-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Randall, Philip D (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Robinson, Geveryl Lee (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Salces Y Nedeo, Anne Carole (0535-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Sanborn, Sarah Mae (1355-CBSHS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Siemens, Jennifer Dianne (1325-CBUS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Simionescu, Agneta (0905-CECAS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Simionescu, Dan T (0905-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Smith, Brian Adam (0523-CAAH)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Smith, Christa A. (0527-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Smith, Cynthia Miller (0905-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Smith, Eddie R (0533-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Smotherman, Mark K (0974-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Springer, Thomas M (1323-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Stegall, David L (0528-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Stephens, Crystal Patrica (0523-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Swain, Scott Darren (1325-CBUS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Switzer, Fred S (1355-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Thomas, Charles J (1309-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Thompson, C Bradley (1310-CBUS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Vertegel, Alexey Alexandrovich (0905-CECAS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Vogel, Melissa A (1356-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Webster, Sheri Smith (0743-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Whisler, Bruce Allen (0525-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"White, Benjamin L (0528-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Whitehead, Kristi James (0314-CSCI)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Yingling, Marissa Ellen (1356-CBSHS)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Zamora, Maureen (0535-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4000,H,"Zhang, Lingling (0745-CBSHS)",2, #,#,#,#,#,#,#,#,#,#
+HON,4010,H,"Feeser, Andrea V (0509-CAAH)",1, #,#,#,#,#,#,#,#,#,#
+HON,4990,H,"Scott, Thomas R (0311-CAFLS)",1, #,#,#,#,#,#,#,#,#,#

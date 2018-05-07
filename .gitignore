@@ -1,0 +1,8 @@
+web/.RData
+web/.Rhistory
+web/.Rproj.user/*
+chromedriver.exe
+.vscode
+debug.log
+.Rproj.user
+.vscode
